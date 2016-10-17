@@ -1,0 +1,5 @@
+XSym
+0110
+a1ca0f13e4f3d2a3f603a67674511146
+../../../JVFloatLabeledTextField/JVFloatLabeledTextField/JVFloatLabeledTextField/NSString+TextDirectionality.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

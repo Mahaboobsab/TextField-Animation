@@ -1,0 +1,5 @@
+XSym
+0106
+c66a816e65fbc8373e59a67647b7b2fd
+../../../JVFloatLabeledTextField/JVFloatLabeledTextField/JVFloatLabeledTextField/JVFloatLabeledTextField.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
